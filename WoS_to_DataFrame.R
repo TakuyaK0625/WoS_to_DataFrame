@@ -6,9 +6,6 @@ library(dplyr)
 library(purrr)
 library(tidyr)
 library(stringr)
-library(DT)
-library(rvest)
-library(ggplot2)
 library(data.table)
 
 
